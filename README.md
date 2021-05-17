@@ -1,24 +1,6 @@
-# vue-ts-app
+# vue-ts-vite-demo
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+该demo项目主要展示以下几点:
+-  vue, typescript, vite 搭配使用
+-  vue-cli 创建的项目如何迁移至 vite
+-  vite 中如何使用 ejs 模板
